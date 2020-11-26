@@ -45,7 +45,7 @@ var fly = new Audio();
 
 var scor = new Audio();
 
-fly.src = "sounds/fly.mp3";
+fly.src = "music/In Mexico.m4A";
 
 scor.src = "sounds/score.mp3";
 
